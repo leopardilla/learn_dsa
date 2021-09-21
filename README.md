@@ -36,9 +36,14 @@ learn DSA in public
 - [ ]  string
 - [ ]  string reverse
 - [ ]  palindrome sub-string
-- [ ]  prefix, suffix
+- [ ]  prefix
+- [ ]  suffix
 - [ ]  border anagram searching for pattern
 - [ ]  naive "compare each char of pattern (P) to each char of text (T)"
+- [ ]  ***and***
+- [ ]  KMP
+- [ ]  Boyer Moore
+- [ ]  suffixarray
 
 
 - [ ] greedy algorithm
@@ -89,12 +94,39 @@ You can use KNN to build a recommendations system, an OCR engine, a system to pr
 ### Definitions
 - [ ] array
 - [ ] linked list
-- [ ] hash tables
+- [ ] hash table
+- [ ] stack
+- [ ] queue
+- [ ] matrix
+- [ ] spart matrix
+- [ ] heap
+
+
+- [ ] **graph theory**
+-- [ ] graph
+-- [ ] BFS
+- [ ] DFS
+- [ ] pre-order (node, left, then right)
+- [ ] in-order (left, node, then right)
+- [ ] binary tree (max 2 nodes)
+- [ ] binary search tree
 - [ ] trees
-- [ ] stacks
-- [ ] queues
-- [ ] graph
 - [ ] hash
+
+
+- [ ] **operations in data structures**:
+- [ ] traversing - visiting each element of the DS only once
+- [ ] sorting - sorting the elements in the DS in ascending (from low to high) and descending (from high to low) order
+- [ ] deleting - removing an element from a DS 
+- [ ] merging - the storage of elements located in two different data files by combining them into one data file
+- [ ] inserting - addding elements of the same type in a DS 
+- [ ] ***searching*** - finding an element in a DS that satisfies one or more conditions:
+-- [ ] linear search
+-- [ ] binary search
+- [ ] 
+- 
+
+
 
 ## Arrays 
 ## Linked lists
