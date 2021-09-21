@@ -1,17 +1,18 @@
 # learn_dsa
 learn DSA in public
 
+---
 
-# Algorithms
+# Algorithms>!
 
-### Definitions
+### Definitions>!
 - [ ] **algorithm** -  a set of instructions for accomplishing a task (instructions are followed step by step to solve problem or to do smth useful). It has an ***input*** which goes through the ***series of computations***, and finally produces an ***output***.
 - [ ] **Searching algorithms**:
-- [ ] simple (linear) search algorithm 
-- [ ] binary search algorithm
-- [ ] upper bound algorithm
-- [ ] lower bound algorithm
-- [ ] sequential search algorithm
+  - [ ] simple (linear) search algorithm 
+  - [ ] binary search algorithm
+  - [ ] upper bound algorithm
+  - [ ] lower bound algorithm
+  - [ ] sequential search algorithm
 
 - [ ] logarithm
 
@@ -26,20 +27,20 @@ learn DSA in public
 - [ ] AI algorithm
 
 - [ ] **Sorting algorithms**:
-- [ ] SBI (selection, bubble, insertion)
-- [ ] merger sort algorithm
-- [ ] heap sort algorithm
-- [ ] quicksort algorithm
+  - [ ] SBI (selection, bubble, insertion)
+  - [ ] merger sort algorithm
+  - [ ] heap sort algorithm
+  - [ ] quicksort algorithm
 
 - [ ]  **String Search algorithms**:
 - [ ]  ***basics***
-- [ ]  string
-- [ ]  string reverse
-- [ ]  palindrome sub-string
-- [ ]  prefix
-- [ ]  suffix
-- [ ]  border anagram searching for pattern
-- [ ]  naive "compare each char of pattern (P) to each char of text (T)"
+  - [ ]  string
+  - [ ]  string reverse
+  - [ ]  palindrome sub-string
+  - [ ]  prefix
+  - [ ]  suffix
+  - [ ]  border anagram searching for pattern
+  - [ ]  naive "compare each char of pattern (P) to each char of text (T)"
 - [ ]  ***and***
 - [ ]  KMP
 - [ ]  Boyer Moore
@@ -90,8 +91,10 @@ Breadth-first search and Dijkstra’s algorithm are ways to find the shortest di
 ## Machine-learning algorithm: K-nearest neighbors (KNN)
 You can use KNN to build a recommendations system, an OCR engine, a system to predict stock values—anything that involves predicting a value (“We think Adit will rate this movie 4 stars”) or classifying an object (“That letter is a Q”)
 
-# Data structures
-### Definitions
+---
+
+# Data structures>!
+### Definitions>!
 - [ ] array
 - [ ] linked list
 - [ ] hash table
@@ -103,26 +106,26 @@ You can use KNN to build a recommendations system, an OCR engine, a system to pr
 
 
 - [ ] **graph theory**
--- [ ] graph
--- [ ] BFS
-- [ ] DFS
-- [ ] pre-order (node, left, then right)
-- [ ] in-order (left, node, then right)
-- [ ] binary tree (max 2 nodes)
-- [ ] binary search tree
-- [ ] trees
-- [ ] hash
+  - [ ] graph
+  - [ ] BFS
+  - [ ] DFS
+  - [ ] pre-order (node, left, then right)
+  - [ ] in-order (left, node, then right)
+  - [ ] binary tree (max 2 nodes)
+  - [ ] binary search tree
+  - [ ] trees
+  - [ ] hash
 
 
 - [ ] **operations in data structures**:
-- [ ] traversing - visiting each element of the DS only once
-- [ ] sorting - sorting the elements in the DS in ascending (from low to high) and descending (from high to low) order
-- [ ] deleting - removing an element from a DS 
-- [ ] merging - the storage of elements located in two different data files by combining them into one data file
-- [ ] inserting - addding elements of the same type in a DS 
-- [ ] ***searching*** - finding an element in a DS that satisfies one or more conditions:
--- [ ] linear search
--- [ ] binary search
+  - [ ] traversing - visiting each element of the DS only once
+  - [ ] sorting - sorting the elements in the DS in ascending (from low to high) and descending (from high to low) order
+  - [ ] deleting - removing an element from a DS 
+  - [ ] merging - the storage of elements located in two different data files by combining them into one data file
+  - [ ] inserting - addding elements of the same type in a DS 
+  - [ ] ***searching*** - finding an element in a DS that satisfies one or more conditions:
+    - [ ] linear search
+    - [ ] binary search
 - [ ] 
 - 
 
@@ -134,7 +137,7 @@ You can use KNN to build a recommendations system, an OCR engine, a system to pr
 
 
 
-### Books:
+### Books:>!
 - [Grokking algorithms. An illustrated guide for programmers and other curious people. Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms) and [GitHub](https://github.com/egonschiele/grokking_algorithms)
 - 
 -  
