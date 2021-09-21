@@ -3,7 +3,7 @@ learn DSA in public
 
 ---
 
-# Algorithms>!
+# Algorithms >!
 
 ### Definitions>!
 - [ ] **algorithm** -  a set of instructions for accomplishing a task (instructions are followed step by step to solve problem or to do smth useful). It has an ***input*** which goes through the ***series of computations***, and finally produces an ***output***.
