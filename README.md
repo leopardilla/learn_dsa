@@ -7,20 +7,22 @@ learn DSA in public
 
 ### Definitions>!
 - [ ] **algorithm** -  a set of instructions for accomplishing a task (instructions are followed step by step to solve problem or to do smth useful). It has an ***input*** which goes through the ***series of computations***, and finally produces an ***output***.
+
+- [ ] **big O notation** - time complexity analysis (the running time of an algorithm) 
+
+- [ ] **recursion** - a common technique for designing algorithms 
+
 - [ ] **Searching algorithms**:
-  - [ ] simple (linear) search algorithm 
-  - [ ] binary search algorithm
+  - [ ] **simple (linear) search algorithm 
+  - [ ] **binary search algorithm
   - [ ] upper bound algorithm
   - [ ] lower bound algorithm
   - [ ] sequential search algorithm
+  - [ ] depth/ breadth first search
 
 - [ ] logarithm
 
 
-- [ ] **big O notation** - time complexity analysis (the running time of an algorithm) 
-
-
-- [ ] **recursion** - a common technique for designing algorithms 
 
 
 - [ ] graph algorithm
@@ -28,9 +30,11 @@ learn DSA in public
 
 - [ ] **Sorting algorithms**:
   - [ ] SBI (selection, bubble, insertion)
-  - [ ] merger sort algorithm
-  - [ ] heap sort algorithm
-  - [ ] quicksort algorithm
+  - [ ] **merge sort algorithm
+  - [ ] **heap sort algorithm
+  - [ ] **quicksort algorithm
+  - [ ] bucket sort
+  - [ ] counting sort
 
 - [ ]  **String Search algorithms**:
 - [ ]  ***basics***
@@ -95,24 +99,24 @@ You can use KNN to build a recommendations system, an OCR engine, a system to pr
 
 # Data structures>!
 ### Definitions>!
-- [ ] array
-- [ ] linked list
+- [ ] **array
+- [ ] **linked list
 - [ ] hash table
-- [ ] stack
-- [ ] queue
+- [ ] **stack
+- [ ] **queue
 - [ ] matrix
 - [ ] spart matrix
-- [ ] heap
+- [ ] **heap
 
 
 - [ ] **graph theory**
   - [ ] graph
+  - [ ] **binary tree (max 2 nodes)
+  - [ ] binary search tree
   - [ ] BFS
   - [ ] DFS
   - [ ] pre-order (node, left, then right)
   - [ ] in-order (left, node, then right)
-  - [ ] binary tree (max 2 nodes)
-  - [ ] binary search tree
   - [ ] trees
   - [ ] hash
 
