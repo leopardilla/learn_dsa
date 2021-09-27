@@ -1,5 +1,56 @@
 # learn_dsa
 learn DSA in public
+Basic Data Structures
+1.	Linear DS
+1.1.	Static:
+1.1.1.	Array/List
+1.2.	Dinamic:
+1.1.1.	Stack
+1.1.2.	Queue
+1.1.3.	Linked list
+2.	Non-Linear DS
+2.1.	Tree
+2.1.1.	Binary tree
+2.2.	Graph
+3.	Heap
+4.	Hash table
+5.	Matrix
+
+Operations in data structures:
+1.	 traversing - visiting each element of the DS only once
+2.	 sorting - sorting the elements in the DS in ascending (from low to high) and descending (from high to low) order
+3.	 deleting - removing an element from a DS
+4.	 merging - the storage of elements located in two different data files by combining them into one data file
+5.	 inserting - addding elements of the same type in a DS
+6.	 searching - finding an element in a DS that satisfies one or more conditions
+
+Basic Search and Sort algorithms:
+1.	Search
+1.1.	Linear Search
+1.2.	Binary Search
+1.3.	Search an element in a sorted and rotated array
+2.	Sort
+2.1.	Quick Sort
+2.2.	Bubble Sort
+2.3.	Selection Sort
+2.4.	Insertion Sort
+2.5.	Merge Sort
+2.6.	Heap Sort (Binary Heap)
+2.7.	Topological Sort
+2.8.	Etc. (Bucket Sort, Radix Sort, Tim Sort, Shell Sort)
+3.	String Search algorithms:
+3.1.	 basics
+3.2.	 string
+3.3.	 string reverse
+3.4.	 palindrome sub-string
+3.5.	 prefix
+3.6.	 suffix
+3.7.	 border anagram searching for pattern
+3.8.	 naive "compare each char of pattern (P) to each char of text (T)"
+
+Big-O Notation 
+Recursion
+![image](https://user-images.githubusercontent.com/84455218/134950401-b37c8d51-e251-4200-a259-9e4922baf308.png)
 
 ---
 
